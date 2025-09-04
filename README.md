@@ -4,9 +4,12 @@ Book Buddy is a fullstack MERN web application designed to provide a seamless on
 
 🚀 Tech Stack
 
-Frontend: React, Tailwind CSS, Redux Toolkit, RTK Query
+Frontend: React , Tailwind CSS, Redux Toolkit, RTK Query
+
 Backend: Node.js, Express.js
+
 Database: MongoDB + Mongoose
+
 Authentication: JWT (JSON Web Tokens)
 
 ✨ Features
