@@ -1,4 +1,4 @@
-📚 Book Buddy – MERN Stack Bookstore Website
+📚 ONLINE BOOKSTORE– MERN Stack Bookstore Website
 
 Book Buddy is a fullstack MERN web application designed to provide a seamless online bookstore experience. Users can browse and purchase books, while admins can securely manage inventory and orders through an intuitive dashboard.
 
